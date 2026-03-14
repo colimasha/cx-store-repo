@@ -8,6 +8,15 @@
     "repo": "colimasha/swabby",
     "apkAssetName": "swabby.games.apk"
   },
+    {
+    "id": "cx-store",
+    "name": "CX Store",
+    "description": "The ultimate app store for Android devices. Discover, download, and manage your favorite apps with ease.",
+    "category": "Tools",
+    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/cx-store.png",
+    "repo": "colimasha/cx-store-apk",
+    "apkAssetName": "cx-store.apk"
+  },
   {
     "id": "math-blitz",
     "name": "Math Blitz",
