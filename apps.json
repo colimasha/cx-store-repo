@@ -11,7 +11,7 @@
     {
     "id": "cx-store",
     "name": "CX Store",
-    "description": "The ultimate app store for Android devices. Discover, download, and manage your favorite apps with ease.",
+    "description": "The ultimate app store for Android devices. Discover, download, and manage your favorite apps with ease. A must-have for every Android user.",
     "category": "Tools",
     "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/cx-store.png",
     "repo": "colimasha/cx-store-apk",
