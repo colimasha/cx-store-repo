@@ -1,1 +1,38 @@
-
+[
+  {
+    "id": "swabby-games",
+    "name": "Swabby Games",
+    "description": "Database of games for Android devices. Browse and search for games, view details, and download APKs directly from the app. A must-have for gaming enthusiasts.",
+    "category": "Games",
+    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/swabby-games.png",
+    "repo": "colimasha/swabby",
+    "apkAssetName": "swabby.games.apk"
+  },
+  {
+    "id": "math-blitz",
+    "name": "Math Blitz",
+    "description": "A fast-paced math game to test your skills.",
+    "category": "Games",
+    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/math-blitz.png",
+    "repo": "colimasha/math-blitz-apk",
+    "apkAssetName": "Math-blitz.apk"
+  },
+  {
+    "id": "file-converter",
+    "name": "File Converter",
+    "description": "Converts files between different formats. Supports images, documents, and more. Simple and easy to use.",
+    "category": "Tools",
+    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/file-converter.png",
+    "repo": "colimasha/fileconverter",
+    "apkAssetName": "file-converter.apk"
+  },
+  {
+    "id": "clocker",
+    "name": "Clocker",
+    "description": "A productivity app. Set work intervals and breaks to boost your focus and efficiency. Simple, effective, and customizable.",
+    "category": "Productivity",
+    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/clocker.png",
+    "repo": "colimasha/clocker-apk",
+    "apkAssetName": "clocker.apk"
+  }
+]
