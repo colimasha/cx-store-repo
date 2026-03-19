@@ -29,9 +29,9 @@
    {
     "id": "fake-screens",
     "name": "Fake Screens",
-    "description": "A fast-paced math game to test your skills.",
+    "description": "Prank your friends with fake hacks, virus alerts, police checks & more!.",
     "category": "Games",
-    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/fake-screens.png",
+    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/fake-screen.png",
     "repo": "colimasha/fake-screens-apk",
     "apkAssetName": "Fake-Screens.apk"
   },
