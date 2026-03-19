@@ -26,6 +26,15 @@
     "repo": "colimasha/math-blitz-apk",
     "apkAssetName": "Math-blitz.apk"
   },
+   {
+    "id": "fake-screens",
+    "name": "Fake Screens",
+    "description": "A fast-paced math game to test your skills.",
+    "category": "Games",
+    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/fake-screens.png",
+    "repo": "colimasha/fake-screens-apk",
+    "apkAssetName": "Fake-Screens.apk"
+  },
   {
     "id": "file-converter",
     "name": "File Converter",
