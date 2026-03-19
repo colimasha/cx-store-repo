@@ -33,7 +33,7 @@
     "category": "Games",
     "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/fake-screen.png",
     "repo": "colimasha/fake-screen-apk",
-    "apkAssetName": "Fake-Screens.apk"
+    "apkAssetName": "fake-screen.apk"
   },
   {
     "id": "file-converter",
