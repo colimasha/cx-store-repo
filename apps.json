@@ -17,6 +17,16 @@
     "repo": "colimasha/cx-store-apk",
     "apkAssetName": "cx-store.apk"
   },
+      {
+    "id": "epremier",
+    "name": "E Premier",
+    "description": "A mobile tournament management app.
+Designed for friend groups running FIFA / eFootball tournaments who are tired of managing fixtures and standings on Excel sheets.",
+    "category": "Tools",
+    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/epremier.png",
+    "repo": "colimasha/epremier-apk",
+    "apkAssetName": "epremier.apk"
+  },
   {
     "id": "math-blitz",
     "name": "Math Blitz",
