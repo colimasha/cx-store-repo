@@ -53,6 +53,15 @@
     "repo": "colimasha/fileconverter",
     "apkAssetName": "file-converter.apk"
   },
+     {
+    "id": "pomodoro-timer",
+    "name": "Pomodoro Timer",
+    "description": "Set work intervals and breaks to boost your focus and efficiency. Simple, effective, and customizable.",
+    "category": "Productivity",
+    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/pomodoro.png",
+    "repo": "colimasha/pomodoroapk",
+    "apkAssetName": "pomodoro.apk"
+  },
   {
     "id": "clocker",
     "name": "Clocker",
@@ -61,14 +70,5 @@
     "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/clocker.png",
     "repo": "colimasha/clocker-apk",
     "apkAssetName": "clocker.apk"
-  },
-   {
-    "id": "pomodoro-timer",
-    "name": "Pomodoro Timer",
-    "description": "Set work intervals and breaks to boost your focus and efficiency. Simple, effective, and customizable.",
-    "category": "Productivity",
-    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/pomodoro.png",
-    "repo": "colimasha/pomodoroapk",
-    "apkAssetName": "pomodoro.apk"
   }
 ]
