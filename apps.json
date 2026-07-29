@@ -13,7 +13,7 @@
     "name": "Recipee",
     "description": "Cook Anything, Anywhere. Discover thousands of delicious meals from top free databases. Save your favorites instantly and cook with confidence—even without an internet connection. Your personal chef, always in your pocket.",
     "category": "Food & Drink",
-    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/swabby-games.png",
+    "iconUrl": "https://github.com/colimasha/cx-store-repo/blob/main/icons/recipee.png",
     "repo": "colimasha/recipee-apk",
     "apkAssetName": "recipee.apk"
   },
