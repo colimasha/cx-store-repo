@@ -18,6 +18,15 @@
     "apkAssetName": "recipee.apk"
   },
     {
+    "id": "tooly",
+    "name": "Tooly",
+    "description": "A collection of useful tools for your Android device.",
+    "category": "Tools",
+    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/tooly.png",
+    "repo": "colimasha/tooly-apk",
+    "apkAssetName": "tooly.apk"
+  },
+    {
     "id": "cx-store",
     "name": "CX Store",
     "description": "The ultimate app store for Android devices. Discover, download, and manage your favorite apps with ease. A must-have for every Android user.",
