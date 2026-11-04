@@ -17,6 +17,16 @@
     "repo": "colimasha/recipee-apk",
     "apkAssetName": "recipee.apk"
   },
+   
+    {
+    "id": "penny-habit",
+    "name": "Penny Habit",
+    "description": "Track your daily habits and build positive routines. Set goals, monitor progress, and achieve success with our intuitive habit tracker.",
+    "category": "Productivity",
+    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/penny-habit.png",
+    "repo": "colimasha/penny-habit-apk",
+    "apkAssetName": "penny-habit.apk"
+  },
     {
     "id": "tooly",
     "name": "Tooly",
