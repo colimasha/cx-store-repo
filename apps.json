@@ -17,6 +17,15 @@
     "repo": "colimasha/recipee-apk",
     "apkAssetName": "recipee.apk"
   },
+     {
+    "id": "no-fap",
+    "name": "No-Fap",
+    "description": "A private no-fap streak tracker. Track your progress, set goals, and stay motivated on your journey to self-improvement.",
+    "category": "Productivity",
+    "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/no-fap.png",
+    "repo": "colimasha/no-fap-apk",
+    "apkAssetName": "no-fap.apk"
+  },
    
     {
     "id": "penny-habit",
