@@ -6,7 +6,16 @@
     "category": "Games",
     "iconUrl": "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/icons/swabby-games.png",
     "repo": "colimasha/swabby",
-    "apkAssetName": "swabby.games.apk"
+    "apkAssetName": "swabby.games.apk",
+    "screenshots": [
+      "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/screenshots/swabby/01-home.png",
+      "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/screenshots/swabby/02-games.png",
+      "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/screenshots/swabby/03-streak.png",
+      "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/screenshots/swabby/04-earn.png",
+      "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/screenshots/swabby/05-shop.png",
+      "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/screenshots/swabby/06-badges.png",
+      "https://raw.githubusercontent.com/colimasha/cx-store-repo/main/screenshots/swabby/07-dark.png"
+    ]
   },
     {
     "id": "recipee",
